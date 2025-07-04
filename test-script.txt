@@ -1,0 +1,964 @@
+; pos=0x90cc
+; [clear]
+; パ-ティ-は全滅した[00]
+[clear]The party was wiped out[00]
+
+; pos=0x94ea
+; Gを手に入れた[00]
+G obtained.[00]
+
+; pos=0x96b0
+; [clear]詠唱がおわればサングバランが
+; かかります[00]
+When the chanting ends, sangbalan will be applied.[00]
+
+; pos=0x97d4
+; [clear] Bボタンで
+; でもどりなさい[00]
+B button to go back[00]
+
+; pos=0x981c
+; [clear]左右ボタンで固の属性にあわせなさい[00]
+Left and right to highlight[00]
+
+; pos=0x989c
+; [clear]Aボタンを
+; おしてけってい
+; しなさい[00]
+A button to confirm[00]
+
+; pos=0x98de
+; [clear]上下ボタンで
+; レベル1を
+; えらびなさい[00]
+Up and down to select[00]
+
+; pos=0x99f2
+; [clear]上下ボタンで
+; 呪法を
+; えらびなさい[00]
+Select spell[00]
+
+; pos=0x9a64
+; [clear] こしゃくなやつらめ[00]
+You little bastard ![00]
+
+; pos=0x9a82
+; [clear]目にもの見せてくれるわ![00]
+I'll show you something![00]
+
+; pos=0x20ad8
+; サングバラン サ-ト ハレジュ[00]
+Sangbalan Sat Harej[00]
+
+; pos=0x20aee
+; サ-レ サ-ト ダへル[00]
+Sale Sat Dahel[00]
+
+; pos=0x20b00
+; アマレジャ サ-ト ゲルメズ[00]
+Amareja Sat Gelmez[00]
+
+; pos=0x20b16
+; メ-ラパン サ-ト ロトフャン スラティ[00]
+Meerapan Sat Lotfan Surati[00]
+
+; pos=0x20b32
+; ペイマ サ-ト フェ-ル カルマンド[00]
+Payma Sat Fer Carmand[00]
+
+; pos=0x20b4c
+; ニスト サ-ト[00]
+Nist Sat[00]
+
+; pos=0x20b5a
+; ゼルゼレ アブ ナク シショミン ハレジュ[00]
+Zelzere Abu Nak Shishomin Harej[00]
+
+; pos=0x20b76
+; アブシャル アブ ダへル[00]
+Abshar Abu Dahel[00]
+
+; pos=0x20b8a
+; ザ-ム アブ ドッオミン ミタワニド[00]
+Zam Abu Doomin Mitawanid[00]
+
+; pos=0x20ba4
+; ダルヤチュ アブ ロトフャン アビ[00]
+Daryachu Abu Lotfan Abi[00]
+
+; pos=0x20bbc
+; ハビダン アブ フェ-ル ナレンジ[00]
+Havidan Abu Fer Narenzi[00]
+
+; pos=0x20bd4
+; ニスト アブ[00]
+Nist Abu[00]
+
+; pos=0x20be2
+; バド ハワ チェシュム ハレジュ[00]
+Bad Hawa Cheshum Harej[00]
+
+; pos=0x20bfa
+; ホナ-ク ハワ モタ-ジェム ダへル[00]
+Honak Hawa Motajem Dahel[00]
+
+; pos=0x20c14
+; ボリテギ ハワ ミタワニド[00]
+Voritegi Hawa Mitawanid[00]
+
+; pos=0x20c28
+; ザ-イフ ハワ ドッオミン[00]
+Zaif Hawa Doomin[00]
+
+; pos=0x20c3c
+; ディル ハワ フェ-ル[00]
+Dil Hawa Fer[00]
+
+; pos=0x20c4e
+; ニスト ハワ[00]
+Nist Hawa[00]
+
+; pos=0x20c5c
+; トゥフャン フェケル チャハロミン ハレジュ ゲルメゼスィル[00]
+Tufan Feker Chaharomin Harej Gelmezesir[00]
+
+; pos=0x20c82
+; ガ-レ フェケル パンジョミン ダへル[00]
+Gale Fekel Panjomin Daher[00]
+
+; pos=0x20c9c
+; ビマレスタン フェケル タルス ナク ミタワニド[00]
+Vimalestan Feker Tars Nak Mitawanid[00]
+
+; pos=0x20cbc
+; サウト タリク ロトフヤン ザバン[00]
+Saut Tariq Lotfyan Zaban[00]
+
+; pos=0x20cd4
+; ズドボゾルグ フェケル ドッオミン フェ-ル[00]
+Zdbozorg Fekel Domin Fer[00]
+
+; pos=0x20cf2
+; コジャ- フェケル ポ-セシュ ペサ-[00]
+Koja Fekel Posesh Pesa[00]
+
+; pos=0x20d0c
+; ニスト フェケル[00]
+Nist Fekel[00]
+
+; pos=0x20d1c
+; バルグ ロ-シャン ハレジュ ザルド[00]
+Barg Roshan Hallej Zard[00]
+
+; pos=0x20d36
+; ディワル ロ-シャン チャハロミン ダへル[00]
+Diwar Roshan Chaharomin Dahel[00]
+
+; pos=0x20d52
+; ダルハネ ロ-シャン パンジョミン ミタワニド[00]
+Darhan Roshan Panjomin Mitawanid[00]
+
+; pos=0x20d70
+; イスタダン ロ-シャン タルスナク シショミン タルス[00]
+Istadan Roshan Tarsnak Shishomin Tars[00]
+
+; pos=0x20d92
+; ズド ロ-シャン フェ-ル[00]
+Zud Roshan Fer[00]
+
+; pos=0x20da6
+; ニスト ロ-シャン[00]
+Nist Roshan[00]
+
+; pos=0x20db6
+; ニメシャブ タリク ハレジュ[00]
+Nimeshab Tariq Harej[00]
+
+; pos=0x20dcc
+; バム タリク ダへル[00]
+Bam Tariq Dahel[00]
+
+; pos=0x20dde
+; タズリグ タリク アブル[00]
+Tazrig Tariq Abul[00]
+
+; pos=0x20df2
+; チェラ タリク ポ-セシュ グネ ワキル[00]
+Chela Tariq Posesh Gune Wakil[00]
+
+; pos=0x20e0e
+; ニスト タリク[00]
+Nist Tariq[00]
+
+; pos=0x20e1c
+; ヤクロイ ホ-マ ス-デ ダラマスミレスクタ[00]
+Yakroi Homa Sude Daramasmirecta[00]
+
+; pos=0x32580
+; はげしい炎が、ゆくてをはばんで
+; いる。[00]
+Fierce flames are blocking the way.[00]
+
+; pos=0x3259a
+; [ムウ]は、コダムの書を使った。[00]
+[Mu] used Kodam's book.[00]
+
+; pos=0x32834
+; さぁ、おれも行くぞ。
+; ルフィ-ドをたおそうぜ![00]
+Well, let's go too.
+Let's defeat Lufid![00]
+
+; pos=0x32854
+; いいえ、それはいけません![00]
+No, you can't do that![00]
+
+; pos=0x32868
+; そうだな。[wait][clear]
+; これいじょう、おやぶんを
+; きけんなめに
+; あわせるわけにはいかない[00]
+That's right.[wait][clear]
+In this case, we can't make snacks coincide with the disaster.[00]
+
+; pos=0x32896
+; いや、子どもたちのためにも、
+; ルフィ-ドをたおさなければ![00]
+No, for the sake of the children, we have to defeat Lufid![00]
+
+; pos=0x328bc
+; だめだ。
+; あんたが死んだら子どもたちは
+; どうするんだ![wait][clear]
+; ここからさきは、
+; おれたち3人にまかせて
+; 子どもたちを守っていてくれ。[00]
+No.
+What will the children do if you die?[wait][clear]
+From now on, leave it to the three of us to protect the children.[00]
+
+; pos=0x32908
+; ・・・・・・[wait][clear]
+; わかった・・・[wait][clear]
+; だが、かならず
+; いきてもどらねえと
+; しょうちしねえぞ![00]
+......[wait][clear]
+Understood...[wait][clear]
+However, I am not sure if I will come back alive![00]
+
+; pos=0x3293a
+; おう。
+; まかせておきなって![00]
+Ou.
+Leave it to me![00]
+
+; pos=0x36586
+; ここでセリフだ[00]
+Here's Serif[00]
+
+; pos=0x36596
+; [ムウ]、まだねてたの⁉
+; はやくしたくしないと、
+; 式典がはじまっちゃうわよ。[00]
+[Mu], were you still asleep!?
+If you don't hurry,
+the ceremony will start.[00]
+
+; pos=0x365c2
+; ほら、この法衣にきがえて。[00]
+Look, change into this robe.[00]
+
+; pos=0x3660a
+; ふむふむ・・・[wait][clear]
+; なかなかにあうじゃないの。[00]
+Hmmmm...[wait]
+[clear]It fits quite well, doesn't it?[00]
+
+; pos=0x36626
+; セイラ![wait][clear]姿が見えないと思ったら
+; やっぱりここにいたのね![00]
+Sayla! I thought you couldn't see me,
+but you were here after all![00]
+
+; pos=0x36650
+; きゃっ、女官長様⁉[00]
+Hey, Lady Chief Minister!?[00]
+
+; pos=0x36664
+; いくらおさななじみでも、
+; 気やすく王子様のお部屋に
+; たちいることはゆるしません![wait]
+; [clear]すぐに式典にもどりなさい![00]
+No matter how familiar he is, he won't let 
+him easily enter the prince's room![wait][clear]
+Return to the ceremony immediately![00]
+
+; pos=0x366aa
+; はい・・・・[00]
+Yes...[00]
+
+; pos=0x366b6
+; [ムウ]王子様・・・
+; すぐに大広間へおいで下さい。
+; みなさまお待ちかねですよ![00]
+Prince [Mu]...
+Please come to the hall immediately.
+We are all looking forward to it![00]
+
+; pos=0x36712
+; いいなぁ・・・[wait][clear]
+; 私も建国の式典に
+; さんかしたかったのですが、[wait][clear]
+; ジャンケンにまけて、
+; るすばんをすることに
+; なっちゃったんです。[wait][clear]
+; るすばんをしてるのは、
+; 私だけじゃないから
+; しかたないんですけどね。[00]
+That's nice...[wait][clear]
+I also attended the founding ceremony.[wait][clear]
+I wanted to play Sanctuary, but instead of playing Rock, Paper, Scissors, I ended up playing Rusuban instead.[wait][clear]
+I can't help it because I'm not the only one who does Rusuban.[00]
+
+; pos=0x36786
+; それはいけません![wait][clear]
+; 建国の式典というのは、
+; 1年間の平和にかんしゃする
+; たいせつなぎょうじです![wait][clear]
+; すぐに大広間へ
+; おでかけください![00]
+you can not![wait][clear]
+The founding ceremony is a celebration of peace for a year![wait][clear]
+Please go to the hall immediately![00]
+
+; pos=0x367dc
+; この部屋にかざってあるのは
+; 伝說の勇者たちの像なのでしょ?[wait]
+; [clear]世界を滅ぼそうとした邪悪なる
+; 呪法師ルフィ-ドをたおした
+; えらい人たちなのだとか・・・。[00]
+The statues in this room are the statues
+of legendary heroes, right?[wait]
+[clear]They are said to be great people who 
+defeated the evil sorcerer Rufid who 
+tried to destroy the world...[00]
+
+; pos=0x36840
+; ねえねえ、知ってる?[wait]
+; [clear]この像の人たちが、闇の呪法師をたおしたんだって...[00]
+Hey hey, do you know?[wait]
+[clear]It is said that the people in this
+statue defeated the dark sorcerer...[00]
+
+; pos=0x36874
+; 『炎の剣士バラム』[00]
+"Flame Swordsman Balam"[00]
+
+; pos=0x3688a
+; 『大地の呪法師オ-ンズ』[00]
+"Earth Sorcerer Oz"[00]
+
+; pos=0x368a6
+; 『水の呪法師ミル』[00]
+"Water Magician Mil"[00]
+
+; pos=0x368be
+; 『風の剣士シルク』[00]
+"Wind Swordsman Silk"[00]
+
+; pos=0x368d4
+; パスファルダ王国の建国
+; 20周年をむかえられ、
+; おめでとうございます。[wait]
+; [clear]国が平和だということは
+; 何ものにもかえがたい
+; 宝物であると思います。[wait]
+; [clear]これからも、この国の平和が
+; すえながくつづいていくよう
+; みんなでがんばりましょう![00]
+Congratulations on the 20th anniversary 
+of the founding of the Pasfalda Kingdom.[wait]
+[clear]I believe that a peaceful country is
+an irreplaceable treasure.[wait]
+[clear]Let's all continue to do our best to 
+ensure peace in this country lasts 
+forever![00]
+
+; pos=0x3695e
+; 国を作るきっかけとなった
+; 『アズラ-の聖戦』というのは、[wait]
+; [clear]邪悪なる呪法師『ルフィ-ド』が
+; 世界を滅ぼそうとしたため
+; ひきおこされたものだそうです。[wait]
+; [clear]でも、わたしがきいた話によると
+; ルフィ-ドは、てんさいてきな
+; 呪法師であったのだとか・・・。[wait]
+; [clear]それほどすぐれた呪法師が
+; なぜ世界を滅ぼそうとしたのか?
+; そこが、どうにもわかりません。[00]
+The "Azura's Holy War" that led to the 
+creation of the country was said 
+to have been caused by the evil sorcerer[wait]
+[clear]"Luffyd" trying to destroy the world.
+However, according to what I heard, 
+Rufid was a very talented magician... [wait]
+[clear]Why did such a great magician try 
+to destroy the world?
+That's what I don't understand.[00]
+
+; pos=0x36a2c
+; [ムウ]王子様・・・
+; みなさまがお待ちかねです。[00]
+Prince [Mu]...
+We are all looking forward to it.[00]
+
+; pos=0x36a4c
+; [ムウ]王子さまの
+; ごとうちゃくです![00]
+This is Prince [Mu]'s work![00]
+
+; pos=0x36a64
+; おそいぞ、[ムウ]!    [00]
+You're late, [Mu]![00]
+
+; pos=0x36a76
+; わが国の王子たるものが、
+; たいせつな建国の式典に
+; おくれるとは何事だ![00]
+What a shame that the prince of our country would attend such an important founding ceremony![00]
+
+; pos=0x36aa8
+; あなた・・・しかるのは
+; そのくらいにしてあげて。[00]
+You...just give me that amount of scolding.[00]
+
+; pos=0x36ac6
+; ほんとうは[ムウ]だって
+; ちゃんとわかっていますよ。[00]
+I know for sure that it's actually [Mu].[00]
+
+; pos=0x36ae4
+; さて・・・
+; [ムウ]も来た事だし、
+; 式典をはじめようではないか。[00]
+Well...
+Now that [Mu] has arrived, let's start the ceremony.[00]
+
+; pos=0x36b0c
+; みんなも、待ちかねておるぞ。[00]
+Everyone is looking forward to it too.[00]
+
+; pos=0x36b22
+; よかろう。
+; [ムウ]・・・
+; せきにつきなさい。[00]
+[Mu]...
+Cough. [00]
+
+; pos=0x36b3c
+; うっ・・・[00]
+Ugh...[00]
+
+; pos=0x36b48
+; どうしたの、おかあさん⁉[00]
+What's wrong, mom?[00]
+
+; pos=0x36b5c
+; だいじょうぶ、なんでもないわ。
+; ちょっと目まいがしただけ・・・[00]
+It's okay, it's nothing.
+I just felt a little dizzy...[00]
+
+; pos=0x36b82
+; これより、パスフェルダ王国の
+; 建国記念式典をとり行う。[00]
+From now on, a ceremony to commemorate the founding of the Kingdom of Pasfelda will be held.[00]
+
+; pos=0x36bae
+; 何事だ![00]
+What's going on![00]
+
+; pos=0x36bba
+; も、もうしあげます![wait][clear]
+; とつぜん、魔物どもが
+; 襲ってまいりました![00]
+I would also like to express my gratitude![wait][clear]
+Suddenly, monsters attacked![00]
+
+; pos=0x36be4
+; なんだと⁉[00]
+What?! [00]
+
+; pos=0x36bf0
+; これはいかん![wait][clear]
+; [ムウ]![wait][clear]
+; 女、子ども、年老いた者たちを
+; 奥へひなんさせるのだ![00]
+This is not okay![wait][clear]
+[Mu]![wait][clear]
+Let the women, children, and the elderly go deep inside![00]
+
+; pos=0x36c24
+; へいか![wait][clear]
+; みなさんをおつれになって、
+; はやく、お逃げ下さい![00]
+Hey![wait][clear]
+Please take everyone with you and escape quickly![00]
+
+; pos=0x36c4c
+; ここは、私たちが守ります![wait][clear]
+; [ムウ]王子様・・・
+; 王様たちをおつれになり、
+; 奥へ、お逃げ下さい![00]
+We will protect this place![wait][clear]
+Prince Mu...
+Please take the kings with you and run to the back![00]
+
+; pos=0x36c8a
+; すまぬ、将軍・・・[00]
+Sorry, General...[00]
+
+; pos=0x36c9c
+; バラム・・・
+; いや、パスファルダ王・・・
+; ここは、私が防ごう![00]
+Balaam...
+No, King Pasfalda...
+I'll protect you from this![00]
+
+; pos=0x36cc8
+; それはなりませぬ![wait][clear]
+; オ-ンズ様は[ムウ]たちを
+; つれて奥へお逃げ下さい![wait][clear]
+; この場はなんとしても
+; 私ひとりで防ぎます![00]
+That won't happen![wait][clear]
+Mr. Oz, please take Muu and the others and run to the back![wait][clear]
+I will prevent this situation by myself no matter what![00]
+
+; pos=0x36d10
+; みずくさいわよ、あなた・・・[wait][clear]
+; どうして「いっしょに戦え」と
+; おっしゃって下さらないの?[wait][clear]
+; 結婚したあの日・・・
+; 死ぬときはいっしょにと
+; ちかいあったはずじゃないの。[00]
+You're so fresh, you...[wait][clear]
+Why don't you say, "Let's fight together"?[wait][clear]
+The day I got married...
+We should have been together when we died.[00]
+
+; pos=0x36d72
+; シルク・・・[00]
+Silk...[00]
+
+; pos=0x36d80
+; だいじょうぶ。[wait][clear]
+; こう見えても、私だって
+; アズラ-の地で戦った戦士よ。[wait][clear]
+; 魔物なんかに、やすやすと
+; 殺されたりなんかしないわ![00]
+It's okay.[wait][clear]
+Even though I look like this, I am a warrior who fought in the land of Azura.[wait][clear]
+I won't be easily killed by monsters![00]
+
+; pos=0x36dd0
+; みずくさいわよ、あなた・・・[wait][clear]
+; 風の剣士シルクも
+; ここで戦うわ![00]
+You're so fresh, you...[wait][clear]
+Wind swordsman Silk will also fight here![00]
+
+; pos=0x36dfc
+; お父様・・・[wait][clear]
+; はやく『呪法典の間』の
+; 結界をといて、奥へ![00]
+Father...[wait][clear]
+Quickly remove the barrier in the "Spell Code Room" and head inside![00]
+
+; pos=0x36e2c
+; ばかな![wait][clear]
+; じぶんの娘を楯にして
+; 生きのびたいとは思わぬ![00]
+Stupid![wait][clear]
+I don't want to survive using my daughter as a shield![00]
+
+; pos=0x36e54
+; いいえ・・・[wait][clear]
+; パスファルダ王国の宣聖として
+; お父様には呪法典を守って
+; いただかなければなりません![wait][clear]
+; おねがいです、お父様。
+; [ムウ]やセイラとともに
+; 『呪法典の間』へ逃げて‼[00]
+No...[wait][clear]
+As the missionary of the Kingdom of Pasfalda, I must have Father protect the Spell Code![wait][clear]
+Please, Father.
+Escape to the "Spell Code Room" with Mu and Sayla![00]
+
+; pos=0x36ec8
+; ・・・・・・・[wait][clear]
+; わかった・・・。
+; こうなっては、しかたあるまい。[00]
+......[wait][clear]
+Understood...
+It can't be helped if this happens.[00]
+
+; pos=0x36ef0
+; 扉を守る呪法のくさりよ!
+; いまこそ、そのいましめを
+; 聖なる光の元にときはなて![wait][clear]
+; ラ-タ・デル・レイ・・・[wait][clear]
+; バド‼[00]
+A magical chain that protects the door!
+Now is the time to bring that commandment under the holy light![wait][clear]
+Lata del Rey...[wait][clear]
+Bad!!![00]
+
+; pos=0x36f40
+; [ムウ]よ・・・
+; セイラとミルをつれて
+; 後につづくのじゃ![00]
+[Mu]...
+Follow along with Seira and Mil![00]
+
+; pos=0x36f66
+; 『呪法典の間』へ、むかいますか?[00]
+Would you like to head to the "Spell Code Room"?[00]
+
+; pos=0x36f82
+; 元気でね、[ムウ]・・・[wait][clear]
+; 私の、かわいい王子・・・[00]
+Stay well, [Mu]...[wait][clear]
+My cute prince...[00]
+
+; pos=0x36fa4
+; [ムウ]・・・
+; 私たちにかまうな!
+; セイラたちを守るのだ![00]
+Don't bother us!
+Protect Sayla and the others! [00]
+
+; pos=0x36fc8
+; [ムウ]、はやく行きなさい![wait][clear]
+; ・・・・・・・・・[wait][clear]
+; [00]
+Muu, go quickly![wait][clear]
+........[wait][clear][00]
+
+; pos=0x36fe8
+; われらのいる呪法典の間は、
+; いにしえより伝わる6つの
+; 呪法典の1つをおさめしところ。[wait][clear]
+; 『呪法典』というのは呪法の
+; みなもとをなすものじゃ。[wait][clear]
+; その呪法典を守るために
+; この部屋の扉には強力なる
+; 結界がはられておる。[wait][clear]
+; いかに強い魔物であろうとも、
+; この部屋の結界を破ることは
+; かんたんにはできぬはずじゃ![wait][clear]
+; つまり、ここにいるかぎり
+; われらは、安全じゃ。[wait][clear]
+; われらを逃してくれた者たちの
+; 事を思えば、[wait][clear]
+; いましばらくの間、この部屋で
+; 様子を見るしかあるまい。[wait][clear]
+; さて[ムウ]よ。
+; ちょっとこっちへ来なさい。[00]
+The Hall of Spell Codes that we live in is the place where one of the six codes of spell codes that have been passed down since ancient times is kept.[wait][clear]
+The "Spell Code" is the source of all magic.[wait][clear]
+In order to protect the spell code, a powerful barrier has been installed on the door of this room.[wait][clear]
+No matter how strong the monster is, it cannot break the barrier in this room.[wait][clear]
+It can't be done easily![wait][clear]
+In other words, as long as we're here, we're safe.[wait][clear]
+Thinking of those who escaped us, all we can do is stay in this room and wait for a while.[wait][clear]
+Now, Muu.
+Come here for a moment.[00]
+
+; pos=0x37118
+; これから、どうなるやもしれん。
+; おまえにひとつ、
+; 呪法をさずけようと思う。[wait][clear]
+; こまったときに使うがいい。
+; きっと、やくにたつだろう。[00]
+I don't know what will happen from now on.
+I would like to give you a spell.[wait][clear]
+Use it when you are stuck.
+I'm sure it will pass soon.[00]
+
+; pos=0x37164
+; さて、これからどうするか・・・[wait][clear]
+; やはり、ワシは王たちの元へ
+; もどるべきではないのか・・・[00]
+Now, what should I do now...[wait][clear]
+After all, shouldn't the eagle return to the kings?..[00]
+
+; pos=0x3719c
+; 王様・・・[wait][clear]
+; お妃様・・・[wait][clear]
+; どうしてこうなってしまったの?[wait][clear]
+; 私たちは・・・[wait][clear]
+; これからどうなるの・・・?[00]
+King...[wait][clear]
+Princess...[wait][clear]
+How did this happen?[wait][clear]
+We...[wait][clear]
+What will happen next...?[00]
+
+; pos=0x371de
+; 王様とお妃様のおかげで、
+; 私たちは救われたわ。[wait][clear]
+; これから、この呪法典を守って
+; いくのが私たち呪法師の
+; つとめ・・・[wait][clear]
+; [00]
+Thanks to the King and Queen, we were saved.[wait][clear]
+From now on, it is our duty as magicians to protect this magic code...[wait][clear]
+[00]
+
+; pos=0x3722e
+; う・・・ううっ・・・![00]
+Uh... Uh...![00]
+
+; pos=0x37240
+; どうしたの、お母さん⁉[00]
+What's wrong, mom? [00]
+
+; pos=0x37254
+; う・・・うくくっ・・・[wait][clear]
+; うくくくくくっ・・・[wait][clear]
+; くははははははは![00]
+Uh... Ukuku...
+Kuku kuku kuku...
+Kuhahahahahahaha![00]
+
+; pos=0x3727c
+; き、貴様は、ルフィ-ド⁉
+; [00]
+You... you are Rufid?!
+[00]
+
+; pos=0x37294
+; そうか・・・
+; さきほどの見なれぬ魔物どもは
+; 貴様がよびよせたのだな![00]
+I see...
+You were the one who summoned those unfamiliar monsters![00]
+
+; pos=0x372c2
+; しかし、しんじられぬ・・・・
+; 貴様は『アズラ-の聖戦』で
+; たしかに死んだはずであろう‼[00]
+But I can't believe it...
+You definitely should have died in "Azura's Holy War"!! [00]
+
+; pos=0x372fe
+; ふはははは・・・ばかめ![00]
+Hahahahaha...
+Stupid! [00]
+
+; pos=0x37310
+; 20年の間、呪力を回復させつつ
+; 世界中にかくされた呪法典を
+; 集めて来たのだ![00]
+For 20 years, I have been recovering my magical power and collecting magical codes hidden all over the world![00]
+
+; pos=0x3734a
+; これが最後の法典だ。これより呪法典の力によって、
+; 『闇の呪法』を発動してくれる![00]
+This is the final code. From now on, with the power of the spell code, the "Dark Curse" will be activated![00]
+
+; pos=0x37388
+; この、いまわしき世界を滅ぼし、
+; わが理想世界をきずくのだ!
+; ふはははははは・・・![00]
+Destroy this evil world, and destroy my ideal world!
+Hahahahahahaha...![00]
+
+; pos=0x373be
+; うぬぬ・・・
+; そうは、させぬぞ![00]
+Unnunu...
+I won't let you do that! [00]
+
+; pos=0x373d4
+; 『固』『液』『念』『気』『闇』
+; 5つの法典の力による
+; 『闇の呪法』のいりょくの前に[wait][clear]
+; たかがおいぼれひとりで
+; たち向かえると思うのか![wait][clear]
+; おろかものめ‼[00]
+Do you think that someone alone can drown in front of the power of the "Dark Curse[wait][clear]
+that is powered by the five laws of "Hard", "Liquid", "Nen", "Ki", and "Darkness"?[wait][clear]
+Orakamonome!! [00]
+
+; pos=0x37442
+; うぐっ・・・![wait][clear]
+; な、なんという呪力じゃ・・・![00]
+Ugh...![wait][clear]
+What a magical power...![00]
+
+; pos=0x37462
+; オ-ンズ様⁉[00]
+Mr. Oz?![00]
+
+; pos=0x37472
+; ワ、ワシにかまうな・・・[wait][clear]
+; [ムウ]とともに逃げるのじゃ![wait][clear]
+; ぐっ・・・ぐふっ・・・![00]
+Wow, don't worry about me...[wait][clear]
+Run away with Muu![wait][clear]
+Gugh... ugh...![00]
+
+; pos=0x374a6
+; よくもオ-ンズ様を・・・[wait][clear]
+; 私は、あなたをゆるさない![wait][clear]
+; お母さんに何をしたの⁉[wait][clear]
+; お母さんを・・・
+; お城のみんなをかえして![00]
+Well done Mr. Oz...[wait][clear]
+I won't forgive you![wait][clear]
+What did you do to your mother?[wait][clear]
+Mom...
+Return everyone in the castle![00]
+
+; pos=0x374f4
+; ええい、うるさい小娘め![00]
+Hey, you noisy little girl![00]
+
+; pos=0x37508
+; きゃ-っ![00]
+Yay![00]
+
+; pos=0x37514
+; 小僧・・・
+; 貴様もこの手で殺されたいか![00]
+Boy...
+Do you want to be killed with these hands too?[00]
+
+; pos=0x37534
+; ルフィ-ドと戦いますか?[00]
+Will you fight Rufid?[00]
+
+; pos=0x3754a
+; 戦って・・・[ムウ]・・・
+; みんなの・・・ために・・・・[00]
+Fight... [Mu]...
+For everyone...[00]
+
+; pos=0x3756a
+; ふははははは・・・![00]
+Hahahahahaha...![00]
+
+; pos=0x3757a
+; ひとりの邪悪な呪法師が放った
+; 『闇の呪法』により、
+; 世界は闇につつまれた...[00]
+The world is shrouded in darkness due to a "dark spell" cast by an evil sorcerer...[00]
+
+; pos=0x375b6
+; ややっ、[ムウ]王子さま⁉[wait][clear]
+; まだ式典の間に入って
+; いなかったんですか?[wait][clear]
+; そいつは、こまったなぁ・・・。[wait][clear]
+; 建国の式典が《はじまった》ためこちらの扉はとざされています。[wait][clear]
+; [00]
+Yay, Prince [Mu]?[wait][clear]
+Haven't you entered the ceremony yet?[wait][clear]
+That was a pain...
+This door is closed because the founding ceremony has begun.[wait][clear][00]
+
+; pos=0x3761e
+; まことにもうしわけありませんが
+; むこうにある、もうひとつの扉を
+; 《ごりよう》になってください。[00]
+I have no choice but to go through the other door on the other side.[00]
+
+; pos=0x37656
+; [ムウ]王子様・・・[00]
+Prince [Mu]...[00]
+
+; pos=0x37668
+; 王様がお待ちかねですよ。[00]
+The king is waiting for you. [00]
+
+; pos=0x3767e
+; 世界を滅ぼす、闇の呪法典。
+; この呪法典をめぐる、光と闇の
+; 呪法師どうしの戦い・・・[00]
+A dark spell code that will destroy the world. 
+A battle between light and dark magicians over 
+this magic code...[00]
+
+; pos=0x376be
+; 『アズラ-の聖戦』は
+; 闇の呪法師ルフィ-ドの
+; 敗北によって決着した。[00]
+"Azura's Holy War" ended with the defeat of
+the dark sorcerer Luffyd.[00]
+
+; pos=0x376f6
+; ねらわれた呪法典は、
+; 勇者たちの手により
+; ふういんされた・・・[00]
+The targeted curse code was sealed by 
+the hands of the heroes...[00]
+
+; pos=0x37722
+; パスファルダ王国はきょう、
+; 建国20周年の式典を
+; むかえようとしていた。[00]
+Today, the Kingdom of Pasfalda was about 
+to celebrate its 20th anniversary.[00]
+
+; pos=0x37992
+; 国王バラム[00]
+King Balaam [00]
+
+; pos=0x379a2
+; 王妃シルク[00]
+Queen Silk [00]
+
+; pos=0x379b2
+; 宣聖オ-ンズ[00]
+Master Oz [00]
+
+; pos=0x379c2
+; ルフィ-ド[00]
+Rufid[00]
+
+; pos=0x379d0
+; セイラ[00]
+Sayla[00]
+
+; pos=0x456c4
+; 時の使い[00]
+Use of time[00]
+
+; pos=0x456d0
+; [ムウ]、あなたにこの世界の
+; 未来をたくします。
+; どうか未来を救って下さい。[00]
+[Mu], I entrust you with the future of this world.
+Please save the future. [00]
+
+; pos=0x65458
+; [01]D[02]EVEROPED FOR USE ONLY WITH
+; [01]
+;   NTSC M[02]EGA [01]D[02]RIVE SYSTEMS.[00]
+[01]D[02]EVELOPPED FOR USE ONLY WITH
+[01]
+  NTSC M[02]EGA [01]D[02]RIVE SYSTEMS.[00]
+
+
+
+
+
+
+
+
+
+
